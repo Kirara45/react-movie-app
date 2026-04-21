@@ -1,1 +1,1 @@
-{ id: 2, title: 'Побег из Шоушенка', genre: 'drama', year: 1994, rating: 9.3 }
+{ id: 3, title: ‘Криминальное чтиво’, genre: ‘crime’, year: 1994, rating: 8.9 }
