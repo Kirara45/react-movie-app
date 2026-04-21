@@ -1,0 +1,1 @@
+{ id: 1, title: ‘Начало’;, genre: ‘sci-fi’;, year: 2010, rating: 8.8 }
